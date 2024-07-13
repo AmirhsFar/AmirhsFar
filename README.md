@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Amirhossein, a passionate developer with a strong background in data science, deep learning, and backend development. I hold a Bachelor's in Computer Software Engineering and am currently pursuing a Master's in Data Science at Tehran Institute of Advanced Studies. My journey has taken me from automating systems with LabView to developing robust backend solutions with Django. I thrive on tackling complex challenges, collaborating in teams, and continuously learning. I am eager to contribute to innovative projects and drive technological advancements.
+Here's Amirhossein, a passionate developer with a strong background in data science, deep learning, and backend development. He holds a Bachelor's in Computer Software Engineering and is currently pursuing a Master's in Data Science at Tehran Institute of Advanced Studies. His journey has taken him from automating systems with LabView to developing robust backend solutions with Django. Thriving on tackling complex challenges, collaborating in teams, and continuously learning, he's eager to contribute to innovative projects and drive technological advancements.
 
 # Education
 
