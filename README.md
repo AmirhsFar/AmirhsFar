@@ -27,4 +27,4 @@ Hello! I'm Amirhossein, a passionate developer with a strong background in data 
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/amir-hosein-farahani). I'm always open to discussing new opportunities and collaborations!
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/amir-hosein-farahani). I'm always open to discussing new opportunities and collaborations!
